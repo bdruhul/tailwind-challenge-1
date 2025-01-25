@@ -2,3 +2,8 @@
 .font-manrope{
     font-family: "Manrope", serif;
   }
+  .section-top{
+    max-width: 900px;
+    margin: 0 auto;
+
+  }
